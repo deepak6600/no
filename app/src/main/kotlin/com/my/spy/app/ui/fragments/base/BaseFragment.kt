@@ -4,18 +4,18 @@ package com.my.spy.app.ui.fragments.base
 
 import android.annotation.SuppressLint
 import android.os.Bundle
-import androidx.fragment.app.Fragment
-import androidx.appcompat.widget.PopupMenu
 import android.view.*
 import androidx.annotation.LayoutRes
+import androidx.appcompat.widget.PopupMenu
+import androidx.fragment.app.Fragment
 import cn.pedant.SweetAlert.SweetAlertDialog
-import com.my.spy.app.di.component.ActivityComponent
-import com.my.spy.app.ui.widget.toolbar.CustomToolbar
 import com.my.spy.app.data.preference.DataSharePreference.childPhoto
+import com.my.spy.app.di.component.ActivityComponent
 import com.my.spy.app.ui.activities.base.BaseActivity
 import com.my.spy.app.ui.activities.base.InterfaceView
-import com.tbruyelle.rxpermissions2.Permission
-import com.tbruyelle.rxpermissions2.RxPermissions
+import com.my.spy.app.ui.widget.toolbar.CustomToolbar
+import com.tbruyelle.rxpermissions3.Permission
+import com.tbruyelle.rxpermissions3.RxPermissions
 import io.reactivex.disposables.Disposable
 
 

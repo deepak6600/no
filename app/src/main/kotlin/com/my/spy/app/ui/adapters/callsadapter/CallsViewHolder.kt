@@ -3,30 +3,29 @@
 package com.my.spy.app.ui.adapters.callsadapter
 
 import android.content.Context
+import android.media.AudioManager
 import android.media.MediaPlayer
 import android.net.Uri
-import androidx.core.content.ContextCompat
-import androidx.recyclerview.widget.RecyclerView
 import android.view.View
 import android.widget.*
+import androidx.core.content.ContextCompat
+import androidx.recyclerview.widget.RecyclerView
 import at.grabner.circleprogress.CircleProgressView
 import com.my.spy.app.R
 import com.my.spy.app.data.model.Calls
-import com.my.spy.app.utils.ConstFun.runThread
+import com.my.spy.app.data.preference.DataSharePreference.getSelectedItem
 import com.my.spy.app.utils.ConstFun.convertCurrentDuration
-import com.pawegio.kandroid.longToast
-import kotterknife.bindView
-import java.io.File
-import java.io.FileNotFoundException
-import android.media.AudioManager
+import com.my.spy.app.utils.ConstFun.runThread
 import com.my.spy.app.utils.Consts.TYPE_CALL_INCOMING
 import com.my.spy.app.utils.Consts.TYPE_CALL_OUTGOING
 import com.pawegio.kandroid.hide
+import com.pawegio.kandroid.longToast
 import com.pawegio.kandroid.show
-import com.romancha.playpause.PlayPauseView
 import de.hdodenhof.circleimageview.CircleImageView
-import com.my.spy.app.data.preference.DataSharePreference.getSelectedItem
-
+import kotterknife.bindView
+import org.romancha.playpause.PlayPauseView
+import java.io.File
+import java.io.FileNotFoundException
 
 
 class CallsViewHolder(view: View, val context: Context) : RecyclerView.ViewHolder(view) {

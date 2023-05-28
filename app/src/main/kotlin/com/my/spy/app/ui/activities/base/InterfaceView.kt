@@ -4,8 +4,8 @@ import android.view.View
 import cn.pedant.SweetAlert.SweetAlertDialog
 import com.my.spy.app.di.component.ActivityComponent
 import com.my.spy.app.ui.widget.toolbar.CustomToolbar
-import com.tbruyelle.rxpermissions2.Permission
-import com.tbruyelle.rxpermissions2.RxPermissions
+import com.tbruyelle.rxpermissions3.Permission
+import com.tbruyelle.rxpermissions3.RxPermissions
 import io.reactivex.disposables.Disposable
 
 

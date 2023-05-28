@@ -18,8 +18,6 @@ import com.my.spy.app.utils.ConstFun.alertDialog
 import com.my.spy.app.utils.ConstFun.openAppSystemSettings
 import com.jakewharton.rxbinding2.widget.RxTextView
 import com.pawegio.kandroid.longToast
-import com.tbruyelle.rxpermissions2.Permission
-import com.tbruyelle.rxpermissions2.RxPermissions
 import io.reactivex.Observable
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.disposables.Disposable
@@ -35,7 +33,8 @@ import com.my.spy.app.ui.widget.toolbar.CustomToolbar
 import com.my.spy.app.utils.ConstFun.adjustFontScale
 import com.my.spy.app.utils.ConstFun.isAndroidM
 import com.my.spy.app.utils.Consts.TEXT
-
+import com.tbruyelle.rxpermissions3.Permission
+import com.tbruyelle.rxpermissions3.RxPermissions
 
 
 abstract class BaseActivity(@LayoutRes layout:Int) : AppCompatActivity(layout), InterfaceView, BaseFragment.Callback {
