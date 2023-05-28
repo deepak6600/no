@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Romancha:android-material-play-pause-view-button:2.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/356895c7e93e76b2ff4c326f8daa4ec1/transformed/jetified-android-material-play-pause-view-button-2.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/356895c7e93e76b2ff4c326f8daa4ec1/transformed/jetified-android-material-play-pause-view-button-2.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/356895c7e93e76b2ff4c326f8daa4ec1/transformed/jetified-android-material-play-pause-view-button-2.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.romancha/android-material-play-pause-view-button/2.3/7f3d4f80496a2d0d01b7fda86f0b98475b91a811/android-material-play-pause-view-button-2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

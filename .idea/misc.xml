@@ -1,0 +1,66 @@
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/activity_lock.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/activity_main_child.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/activity_main_parent.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/activity_register.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/activity_s.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/activity_view_photo.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/dialog_select_child.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/edittext.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/failed_placeholder.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/floating_button.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/floating_menu.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/fragment_calls.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/fragment_key.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/fragment_maps.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/fragment_message.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/fragment_notifications.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/fragment_photo.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/fragment_recording.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/fragment_setting.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/fragment_social.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/item_calls.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/item_keylog.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/item_last_request.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/item_notify_message.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/item_photo.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/item_recordings.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/item_select_child.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/item_sms.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/item_view_permission.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/layout_delete_item.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/layout_done_item.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/layout_number_item.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/nav_header_home.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/not_have_placeholder.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/recyclerview.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/textview_not_have.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/toolbar.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/view_app_bar.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/view_change_code_access.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/view_change_time_finish_app.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/view_custom_toolbar.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/view_get_recording.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/layout/wait_placeholder.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/menu/menu_home_drawer.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/menu/menu_item_selected.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/deepa/Desktop/22022/app/src/main/res/menu/menu_main.xml" value="0.11041666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

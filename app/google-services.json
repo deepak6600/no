@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050903830580",
+    "firebase_url": "https://my-spy-a9c92.firebaseio.com",
+    "project_id": "my-spy-a9c92",
+    "storage_bucket": "my-spy-a9c92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050903830580:android:c98f243a72cfdf0051ea61",
+        "android_client_info": {
+          "package_name": "com.my.spy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050903830580-oq1apenh4muf6e2tbkdresv4vs060l9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.my.spy.app",
+            "certificate_hash": "d2cbad536c4654d31ead46bb80761fcaf7d56f41"
+          }
+        },
+        {
+          "client_id": "1050903830580-hqr8cobbdhvr4tuujhepj75arcit8u7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQaFP4U8TzQToxPbVHg-h8cCOsZKwsdBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050903830580-hqr8cobbdhvr4tuujhepj75arcit8u7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
