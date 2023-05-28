@@ -88,4 +88,4 @@
 -keep class com.google.android.gms.ads.identifier.** { *; }
 -dontwarn com.google.android.gms.ads.identifier.**
 -keep class com.google.android.gms.common.** { *; }
--dontwarn com.my.spy.app.**
+
