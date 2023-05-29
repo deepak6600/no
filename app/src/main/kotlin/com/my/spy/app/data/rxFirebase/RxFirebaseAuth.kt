@@ -1,5 +1,3 @@
-@file:Suppress("unused")
-
 package com.my.spy.app.data.rxFirebase
 
 import com.google.firebase.auth.AuthCredential
@@ -12,7 +10,8 @@ object RxFirebaseAuth {
             Maybe.create { emitter -> RxTask.assignOnTask(emitter, signInWithEmailAndPassword(email, password)) }
 
 
-    fun FirebaseAuth.rxCreateUserWithEmailAndPassword(email: String, password: String): Maybe<AuthResult> =
+    fun FirebaseAuth.rxCreateUserWithEmailAndPassword(email:
+                                                      String, password: String): Maybe<AuthResult> =
             Maybe.create { emitter -> RxTask.assignOnTask(emitter, createUserWithEmailAndPassword(email, password)) }
 
 

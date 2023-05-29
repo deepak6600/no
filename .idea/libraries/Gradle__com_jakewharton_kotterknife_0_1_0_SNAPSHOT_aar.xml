@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.jakewharton:kotterknife:0.1.0-SNAPSHOT@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/51fe2178112e530f1b0babab86b5d669/transformed/jetified-kotterknife-0.1.0-SNAPSHOT/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/51fe2178112e530f1b0babab86b5d669/transformed/jetified-kotterknife-0.1.0-SNAPSHOT/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/196d5470b0275e493bd812a2086c57be/transformed/jetified-kotterknife-0.1.0-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/196d5470b0275e493bd812a2086c57be/transformed/jetified-kotterknife-0.1.0-SNAPSHOT/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

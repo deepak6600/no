@@ -1,5 +1,3 @@
-@file:Suppress("ClassName")
-
 package com.my.spy.app.app
 
 import android.app.Application
@@ -20,7 +18,6 @@ class powerapk : Application() {
         @JvmStatic lateinit var appComponent: AppComponent
         lateinit var root: RootManager
     }
-//    DaggerAppComponent
 
     override fun onCreate() {
         super.onCreate()

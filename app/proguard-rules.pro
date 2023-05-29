@@ -21,7 +21,7 @@
 #-renamesourcefileattribute SourceFile
 -dontwarn com.daimajia.easing.Glider
 -dontwarn com.daimajia.easing.Skill
--keep class com.example.no.** { *; }
+
 -keepattributes Signature
 -keepattributes InnerClasses
 -keepattributes EnclosingMethod
@@ -88,4 +88,16 @@
 -keep class com.google.android.gms.ads.identifier.** { *; }
 -dontwarn com.google.android.gms.ads.identifier.**
 -keep class com.google.android.gms.common.** { *; }
+-keep class com.my.spy.app.MyClass
+-keep class com.my.spy.app.MyClassToo
+-keep class com.my.spy.app.** { *; }
+#-renamesourcefileattribute SourceFile
+
+-keepattributes Signature
+-keepattributes *Annotation*
+-keepclassmembers class com.my.spy.app.models.** {
+  *;
+}
+
+
 

@@ -15,7 +15,6 @@ import kotterknife.bindView
 import java.lang.Exception
 
 
-@Suppress("NULLABILITY_MISMATCH_BASED_ON_JAVA_ANNOTATIONS")
 class ViewPhoto : BaseActivity(R.layout.activity_view_photo) {
 
     private val imgPhoto: TouchImageView by bindView(R.id.img_view_photo)

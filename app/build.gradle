@@ -2,6 +2,7 @@
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-parcelize'
+
 apply plugin: 'kotlin-kapt'
 
 //apply plugin: 'kotlin-android-extensions'
@@ -48,6 +49,7 @@ android {
 
 
 
+
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     //noinspection GradleDependency
@@ -74,11 +76,11 @@ dependencies {
     //Firebase
     implementation 'com.firebaseui:firebase-ui:8.0.2'
     implementation "com.google.firebase:firebase-auth:22.0.0"
-    implementation "com.google.firebase:firebase-database:20.2.1"
+    implementation "com.google.firebase:firebase-database:20.2.2"
     implementation "com.google.firebase:firebase-storage:20.2.0"
     implementation "com.google.firebase:firebase-core:21.1.1"
     implementation platform('com.google.firebase:firebase-bom:32.0.0')
-    implementation 'com.google.firebase:firebase-analytics-ktx:21.2.2'
+    implementation 'com.google.firebase:firebase-analytics-ktx:21.3.0'
 
     //play-services
     implementation "com.google.android.gms:play-services-maps:18.1.0"
