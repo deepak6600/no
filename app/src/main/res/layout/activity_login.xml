@@ -125,10 +125,8 @@
                 android:inputType="textPassword"
                 android:maxLines="1"
                 android:padding="8dp"
-                android:text="12345678"
                 android:textColor="@color/colorTextPrimaryDark"
                 android:textColorHint="@color/colorHintDark"
-                android:visibility="invisible"
                 tools:ignore="Autofill,HardcodedText" />
 
             <Button

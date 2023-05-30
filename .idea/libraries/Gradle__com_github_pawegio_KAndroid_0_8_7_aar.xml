@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.pawegio:KAndroid:0.8.7@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/55c15b742c8c77cd7bb08ea8cdf4a4f4/transformed/jetified-KAndroid-0.8.7/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/55c15b742c8c77cd7bb08ea8cdf4a4f4/transformed/jetified-KAndroid-0.8.7/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7d5683ad30383097d106854e74d08239/transformed/jetified-KAndroid-0.8.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7d5683ad30383097d106854e74d08239/transformed/jetified-KAndroid-0.8.7/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.pawegio/KAndroid/0.8.7/c097997bd277b87275f1d4c97c165aafe2c35893/KAndroid-0.8.7-javadoc.jar!/" />
